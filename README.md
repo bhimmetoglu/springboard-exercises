@@ -8,3 +8,4 @@ Springboard exercises and codes
 5. Exploratory data analysis: Human body temperatures([notebook](https://github.com/bhimmetoglu/springboard-exercises/blob/master/exploratory_data_analysis/human_temp/sliderule_dsi_inferential_statistics_exercise_1.ipynb))
 6. Exploratory data analysis: Racial Discrimination([notebook](https://github.com/bhimmetoglu/springboard-exercises/blob/master/exploratory_data_analysis/racial_disc/sliderule_dsi_inferential_statistics_exercise_2.ipynb))
 7. Exploratory data analysis: Hospital Readmissions([notebook](https://github.com/bhimmetoglu/springboard-exercises/blob/master/exploratory_data_analysis/hospital_readmit/sliderule_dsi_inferential_statistics_exercise_3.ipynb))
+8. Inferential Statistics: Statistical analysis of Medicate data ([notebook](https://github.com/bhimmetoglu/springboard-exercises/blob/master/inferential_statistics/Medicare%20Data%20-%20Inferential%20Statistics.ipynb))
